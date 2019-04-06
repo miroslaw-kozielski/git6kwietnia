@@ -12,4 +12,9 @@ Aby uzywac nalezy:
 - Appium
 - Jenkins
 
+## Ulubione kluby
+- beer pub in Wroclaw
+- Pizza HUT
+- McDonald's
+
 Copyright by TESTER TEAM
